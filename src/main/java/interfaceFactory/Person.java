@@ -1,9 +1,9 @@
 package interfaceFactory;
 
 public class Person {
-    private String firstName;
-    private String lastName;
-    private String famil;
+    public String firstName;
+    public String lastName;
+    public String famil;
 
 
     public Person(String firstName, String lastName) {
